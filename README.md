@@ -22,7 +22,6 @@ Make sure you have these libaries in Python3,
 ```smtplib```library,
 ```os```library.
 
-Use Gmail, make sure you use 16 digit App Password for Email Password
-
+Use Gmail, make sure you use 16 digit App Password for Email Password ->
 https://support.google.com/accounts/answer/185833
 
